@@ -69,7 +69,7 @@ nav {
 
 header {
     background-color:#E5F4FB;
-    background-image: url("/drive-download-20240609T215231Z-001/waves.png");
+    background-image: url("drive-download-20240609T215231Z-001/waves.png");
     background-position: bottom;
     background-repeat: no-repeat;
     background-size:contain;
@@ -149,7 +149,7 @@ span {
 
 .mid-sec-1 {
     min-height: 100vh;
-    background-image: url("/drive-download-20240609T215231Z-001/second_section_.png");
+    background-image: url("drive-download-20240609T215231Z-001/second_section_.png");
     background-repeat: no-repeat;
     background-position: top center;
     background-size:1200px;
@@ -264,7 +264,7 @@ span {
 
 footer {
     height: 70vh;
-    background-image: url("/drive-download-20240609T215231Z-001/Group\ 1131.png");
+    background-image: url("drive-download-20240609T215231Z-001/Group\ 1131.png");
     background-position:bottom bottom;
     background-size: auto;
     position: relative;
